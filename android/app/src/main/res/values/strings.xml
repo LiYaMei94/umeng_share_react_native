@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">umeng_share_react_native</string>
+    <!-- 新增facebook_app_id -->
+    <string name="facebook_app_id">2094171727560943</string>
+</resources>
